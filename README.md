@@ -5,9 +5,7 @@
 
 # <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
-
-👨‍🎓 Systems Engineering student at University of Antioquia.<br>🚀 Passionate about technology, programming, and problem-solving.<br>📘 Always seeking to learn and improve my skills through projects and courses.
+👨‍🎓 Systems Engineering student at University of Antioquia.<br>🚀Passionate about technology, programming, and problem-solving.<br>📘 Always seeking to learn and improve my skills through projects and courses.
 <br>👨‍🎓[My resume](https://cv-jose-ortiz.vercel.app/)
 <br><br>
 
@@ -20,11 +18,11 @@
 <a href="https://linkedin.com/in/joseortizp" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  joseortizp-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
-
+<br>
 <a href="https://cv-jose-ortiz.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="website" style="margin-bottom: 5px;"/>
 </a>
-
+<br>
 <a href="mailto:padilla99j@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail:  padilla99j-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>

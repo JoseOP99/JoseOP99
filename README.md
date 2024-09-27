@@ -3,7 +3,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Student+of+Systems+Engineering;Passionate+Front-End+Developer;Back-End+Enthusiast;Learning+Cloud+Technologies;Learning+DevOps+Practices"></a>
 </p>
 
-# <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+# <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> **About me**
 
 👨‍🎓 Systems Engineering student at University of Antioquia.<br>🚀Passionate about technology, programming, and problem-solving.<br>📘 Always seeking to learn and improve my skills through projects and courses.
 <br>👨‍🎓[My resume](https://cv-jose-ortiz.vercel.app/)

@@ -9,7 +9,7 @@
 <br>👨‍🎓[My resume](https://cv-jose-ortiz.vercel.app/)
 <br><br>
 
-# <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+# <b> Let's Connect..!</b> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
 
 <br>
 <div align='left'>
